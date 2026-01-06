@@ -49,7 +49,7 @@
 /* main styles */
 header {
   background-color: #fff8f3;
-  background: url(developer.png),url(header_bg.png) ,#fff8f3;
+  background: url(img/developer.png),url(img/header_bg.png) ,#fff8f3;
   background-position: top left, bottom right;
   background-repeat: no-repeat;
   padding-top: 50px;
