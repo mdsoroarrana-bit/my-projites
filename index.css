@@ -152,13 +152,14 @@ nav .menu a {
 }
 .skills-box {
   display: flex;
-  gap: 24px;
+  gap: 25px;
 }
 
 .skils-card {
   padding: 30px;
-  box-shadow: 0 6px 50px 0 #00000053;
+  box-shadow: 0 6px 50px 0 #00000037;
   max-width: 267px;
+  border-radius: 10px;
 }
 .skils-card img {
   max-width: 44px;
