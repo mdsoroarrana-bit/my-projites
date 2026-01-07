@@ -131,7 +131,8 @@ nav .menu a {
 
 #about .about-container .about-info {
   display: flex;
-  justify-content:space-around ;
+  justify-content:space-between ;
+  margin: 0 auto;
 }
 
 .about-info .info-card p {
